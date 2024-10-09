@@ -1,7 +1,7 @@
 {
   "app_config": {
-    "apk_url": "https://github.com/hdoonline/player/releases/download/v1.0.18/mediaon-1.0.18.apk",
-    "version_build": 3,
+    "apk_url": "https://github.com/chienduc91/softpos/releases/download/ver2/app-release.apk",
+    "version_build": 5,
     "is_install_force": true
   }
 }
