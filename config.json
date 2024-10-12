@@ -1,7 +1,7 @@
 {
   "app_config": {
-    "apk_url": "https://github.com/chienduc91/softpos/releases/download/ver2/app-release.apk",
-    "version_build": 5,
-    "is_install_force": true
+    "apk_url": "https://github.com/chienduc91/softpos/releases/download/ver1.0.6/app-release.apk",
+    "version_build": 8,
+    "force_update": true
   }
 }
